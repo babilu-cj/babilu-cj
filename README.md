@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @babilu-cj
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Analytics | Business Analytics
+- 🌱 I’m currently learning Data Science and Engineering
+- 💞️ I’m looking to collaborate on Data Science Projects using Machine Learning
+- 📫 How to reach me https://www.linkedin.com/in/babilucj/
 
 <!---
 babilu-cj/babilu-cj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
